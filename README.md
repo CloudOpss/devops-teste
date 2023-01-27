@@ -21,4 +21,10 @@ Sugestão de ferramentas:
 - Docker
 - Script Python
 
-Apos agendar um call para apresentar a solução.
+O que sera avaliado?
+
+- Organização 
+- Documentação
+- Se esta 100% funcionando
+
+Apos fazer o commit envie mensagem para agendarmos um call para apresentar a solução.
