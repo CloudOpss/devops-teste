@@ -20,3 +20,5 @@ Sugestão de ferramentas:
 - Ansible
 - Docker
 - Script Python
+
+Apos agendar um call para apresentar a solução.
