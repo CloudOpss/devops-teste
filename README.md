@@ -6,6 +6,7 @@ Você foi contratado para criar seguinte stack:
 - Jenkins
 - Sonar
 - Docker
+- ArgoCD
 - API Node (https://github.com/h3nr1ke/teste_api)
 
 Ambiente 
